@@ -101,9 +101,6 @@ namespace AdventOfCode2017.Days
                     break;
                 }
             }
-
-
-
             Console.WriteLine(part2Answer);
 
             Console.ReadKey();
