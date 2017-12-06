@@ -9,9 +9,26 @@ namespace AdventOfCode2017
         {
 
             //Day1.SolveDay1Puzzles();
-
             //Day2.SolveDay2();
-            Day3.Solve();
+            //Day3.Solve();
+
+
+            //Day4.Solve();
+            Day5.Solve();
+            //Day3.Solve();
+            //Day3.Solve();
+            //Day3.Solve();
+
+            //Day3.Solve();
+            //Day3.Solve();
+            //Day3.Solve();
+            //Day3.Solve();
+
+            //Day3.Solve();
+            //Day3.Solve();
+
+
+
         }
     }
 }
