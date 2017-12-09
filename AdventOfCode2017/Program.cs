@@ -15,10 +15,10 @@ namespace AdventOfCode2017
 
             //Day4.Solve();
             //Day5.Solve();
-            Day6.Solve();
+            //Day6.Solve();
             //Day7.Solve();
             //Day8.Solve();
-            //Day9.Solve();
+            Day9.Solve();
             //Day10.Solve();
             //Day11.Solve();
             //Day12.Solve();
